@@ -1,0 +1,10 @@
+title: Malware Analysis For Different Java Malware Families
+description: Reverse engineering, malware analysis, and threat research.
+theme: jekyll-theme-hacker
+author: Jarscanner
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+highlighter: rouge
+style: dark
