@@ -8,3 +8,5 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 style: dark
+header_pages:
+- index.md
