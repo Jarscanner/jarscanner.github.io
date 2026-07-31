@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Hello.
 In this blog, I will be covering various Java malware families distributed as .jar files, along with detailed analyses of each.
