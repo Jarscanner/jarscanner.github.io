@@ -1,6 +1,6 @@
 remote_theme: evilstdio/hackerv2@master
 plugins:
-- jekyll-remote-theme  #
+- jekyll-remote-theme  # s
 title: 0xresetti
 description: making blog posts about malware
 header_pages:
