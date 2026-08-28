@@ -23,3 +23,8 @@ cryptographic protection of its configuration, and anti analysis countermeasure.
 
 - # [XARID](./xarid.html)
 Xarid is a Java trojan dropper targeting Uzbek speaking Windows users. It disguises itself as a financial/tax inspection tool, when executed, displays a fake Uzbek tax warning. Once the user clicks "Accept," it silently downloads malicious components from its C2 server, then establishes dual persistence to survive reboots.
+
+---
+
+- # [CROWC](./crowcontrol.html)
+Crowc, also known as CrowControl is the newest malware family / MaaS for .jar files as of August 28th 2026. Although i did not have the .jar sample of this MaaS during the analysis, So i had to analyze their .exe sample instead.
