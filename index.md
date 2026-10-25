@@ -15,6 +15,11 @@ The most up-to-date and detailed analysis of SilentNet, a large Malware-as-a-Ser
 
 ---
 
+- # [BOMBAY](./bombay.html)
+A detailed analysis of a Bombay Malware-as-a-Service sample, distributed as Minecraft .jar with hidden PowerShell scripts, credential theft, and a crypto miner (this malware is really new from what I know as of october 25 2026, and this is probably the only analysis of it).
+
+---
+
 - # [JRAT](./jrat.html)
 Deep analysis of Jrat, Its multi stage loading architecture, heavy obfuscation techniques, use of encrypted embedded payloads, RSA+AES
 cryptographic protection of its configuration, and anti analysis countermeasure.
